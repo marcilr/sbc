@@ -6,8 +6,21 @@ by Raymond E. Marcil <marcilr@gmail.com>
 
 Filelist
 ========
+fitlet2/
+  "fitlet2 is based on quad-core Apollo-Lake Atom 
+  with up to 16 GB RAM.
+
+  It provides performance that not long ago required
+  a Core CPU that could not be fitted in such a small
+  passively-cooled footprint due to higher power 
+  consumption."
+  https://fit-iot.com/web/product/fitlet2-build-to-order/  
+
 links.txt
   sbc related links
+
+manifest
+  Manifest file for use by resync script
 
 sbc.txt
   Single board computers
